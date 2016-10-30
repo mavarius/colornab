@@ -1,0 +1,16 @@
+{
+  "name": "color-quick",
+  "version": "1.0.0",
+  "description": "Quickly generate a color scheme",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./test"
+  },
+  "keywords": [],
+  "author": "Daniel Campbell",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
